@@ -15,7 +15,7 @@ class PB {
 	    this.pdCode=pdCode;
 	    this.PdName=pdName;
 	    this.pdPrice=pdPrice;
-	  }
+	  System.out.println("hehe");
 	}
-
-
+	}
+//end
